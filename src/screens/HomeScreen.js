@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
 		fontWeight: "bold",
 		textAlign: "center",
 		marginVertical: 20,
-		color: "#ff4500", // Color OrangeRed
+		color: "#ff4500",
 	},
 });
 
